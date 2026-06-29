@@ -9,10 +9,10 @@ html {background-color: #535353}
     height: auto; }
 
     div {
-        max-width: 650px;
+        max-width: 590px;
         width: 100vw;
         background: #ffffff;
-        padding: 0;
+        padding: 0 30px;
         margin: 0 auto;}
 
 .content-inner {tab-size: 5;}
