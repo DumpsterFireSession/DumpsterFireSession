@@ -12,6 +12,7 @@ html {background-color: #535353}
         max-width: 650px;
         width: 100vw;
         background: #ffffff;
+        padding: 0;
         margin: 0 auto;}
 
 .content-inner {tab-size: 5;}
