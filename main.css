@@ -16,10 +16,10 @@ max-width: 650px;
 width: 100vw;
 background: #ffffff;
 padding: 0;
-margin: 0 auto;
-text-wrap: wrap}
+margin: 0 auto;}
 
 /*左右縮排*/
 p {
 max-width: 650px;
-margin: 0 30px;}
+margin: 0 30px;
+text-wrap: wrap}
