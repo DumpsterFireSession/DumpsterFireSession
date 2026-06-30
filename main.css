@@ -15,6 +15,12 @@ font-family: Courier, Verdana, monospace;
 max-width: 650px;
 width: 100vw;
 background: #eeeeee;
+margin: 0 auto;}
+
+.space {
+max-width: 650px;
+width: 100vw;
+background: #eeeeee;
 margin: 0 auto;
 padding-top: 40px;
 padding-bottom: 20px;}
