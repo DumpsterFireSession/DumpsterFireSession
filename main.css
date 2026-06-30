@@ -21,13 +21,13 @@ margin: 0 auto;}
 .space {
 background: #ffffff;
 max-width: 650px;
-padding-top: 40px
-padding-button: 15px}
+padding-top: 40px;
+padding-button: 15px;}
 
 /*命令角色的大字*/
 .command {
 text-align: center;
-font-size: 32px}
+font-size: 24px;}
 
 /*段落文字們的位置*/
 p {
@@ -35,4 +35,4 @@ max-width: 650px;
 height: 0 auto;
 margin: 0 30px;
 text-wrap: wrap;
-font-size: 16px  }
+font-size: 16px;}
