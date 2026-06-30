@@ -15,13 +15,23 @@ font-family: Courier, Verdana, monospace;
 max-width: 650px;
 width: 100vw;
 background: #ffffff;
-margin: 0 auto;
-padding-top: 40px;
-padding-buttom: 15px;}
+margin: 0 auto;}
+
+/*上下需要一點空間不然很怪*/
+.space {
+max-width: 650px;
+padding-top: 40px
+padding-button: 15px}
+
+/*命令角色的大字*/
+.command {
+text-align: center
+font-size 32px}
 
 /*段落文字們的位置*/
 p {
 max-width: 650px;
 height: 0 auto;
 margin: 0 30px;
-text-wrap: wrap}
+text-wrap: wrap
+font-size 16px  }
