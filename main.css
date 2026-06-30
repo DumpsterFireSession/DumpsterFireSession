@@ -14,10 +14,10 @@ div {
 font-family: Courier, Verdana, monospace;
 max-width: 650px;
 width: 100vw;
-background: #ffffff;
+background: #eeeeee;
 margin: 0 auto;
-padding-top: 40px;
-padding-button: 15px;}
+padding-top: 25px;
+padding-buttom: 10px;}
 
 /*命令角色的大字*/
 .command {
