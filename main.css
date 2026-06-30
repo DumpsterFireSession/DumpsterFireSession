@@ -1,5 +1,6 @@
 html {background-color: #535353}
-    
+
+/*副背景*/
 body {
 width: 100vw;
 max-width: 950px;
@@ -8,10 +9,17 @@ margin: 0 auto;
 background: #c6c6c6;
 height: auto; }
 
-div, pre {
+/*那個類貼文造型的主要外觀*/
+div {
 font-family: Courier, Verdana, monospace;
 max-width: 650px;
 width: 100vw;
 background: #ffffff;
 padding: 0;
-margin: 0 auto;}
+margin: 0 auto;
+text-wrap: wrap}
+
+/*左右縮排*/
+p {
+max-width: 650px;
+margin: 0 30px;}
