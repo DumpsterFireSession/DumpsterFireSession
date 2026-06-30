@@ -17,6 +17,14 @@ width: 100vw;
 background: #eeeeee;
 margin: 0 auto;}
 
+.a{
+font-size: 20px;
+text-align: center;}
+
+.b{
+font-size: 20px;
+text-align: left;}
+
 .space {
 max-width: 650px;
 width: 100vw;
