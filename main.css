@@ -19,6 +19,7 @@ margin: 0 auto;}
 
 /*上下需要一點空間不然很怪*/
 .space {
+background: #ffffff;
 max-width: 650px;
 padding-top: 40px
 padding-button: 15px}
