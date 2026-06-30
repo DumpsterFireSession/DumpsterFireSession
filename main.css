@@ -20,6 +20,7 @@ margin: 0 auto;}
 /*段落文字們的位置*/
 p {
 max-width: 650px;
+height: 0 auto;
 margin: 0 30px;
 text-wrap: wrap
 padding-top: 40px;
