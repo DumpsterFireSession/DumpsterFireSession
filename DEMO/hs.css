@@ -3,7 +3,6 @@ html {background-color: #535353}
 /*那個類貼文造型的主要外觀*/
 div {
 font-family: Courier, Verdana, monospace;
-max-width: 1210px;
 margin: 0 auto;
 height: 0 auto;}
 
