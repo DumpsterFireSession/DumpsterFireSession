@@ -1,4 +1,4 @@
-background {background-color: #535353}
+html {background-color: #535353}
 
 /*副背景*/
 .body {
@@ -6,12 +6,13 @@ width: 100vw;
 max-width: 1210px;
 margin: 0 auto;
 background: #c6c6c6;
-height: auto; }
+height: 0 auto;}
 
 /*那個類貼文造型的主要外觀*/
 div {
 font-family: Courier, Verdana, monospace;
-max-width: 910px;}
+max-width: 910px;
+margin: 0 auto;}
 
 .body-inner {
 max-width: 910px;
