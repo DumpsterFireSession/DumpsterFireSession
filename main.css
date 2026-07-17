@@ -14,14 +14,12 @@ font-family: Courier, Verdana, monospace;
 max-width: 910px;
 width: 100vw;
 background: #eeeeee;
-margin: 0 auto;
-padding: 15px 0 10px 0;}
+margin: 0 auto;}
 
 .pagename {
 font-size: 40px;
 text-align: center;
-margin: 0 auto;
-padding: 15px 0 10px 0;}
+margin: 0 auto;}
 
 .command {
 font-size: 24px;
@@ -50,5 +48,5 @@ padding-bottom: 20px;}
 p {
 max-width: 910px;
 height: 0 auto;
-margin: 30px 30px;
+margin: 0 30px;
 text-wrap: wrap;}
