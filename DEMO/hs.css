@@ -1,1 +1,52 @@
+background {background-color: #535353}
 
+/*副背景*/
+body {
+width: 100vw;
+max-width: 1210px;
+margin: 0 auto;
+background: #c6c6c6;
+height: auto; }
+
+/*那個類貼文造型的主要外觀*/
+div {
+font-family: Courier, Verdana, monospace;
+max-width: 910px;
+width: 100vw;
+background: #eeeeee;
+margin: 0 auto;}
+
+.pagename {
+font-size: 40px;
+text-align: center;
+padding-top: 15px}
+
+.command {
+font-size: 24px;
+text-align: left;}
+
+.narration {
+font-size: 18px;
+text-align: center;}
+
+img {
+max-width: 910px;
+width: 100vw;
+height: 0 auto;
+max-width: 100%;
+margin: 15px 0;
+
+.space {
+max-width: 910px;
+width: 100vw;
+background: #eeeeee;
+margin: 0 auto;
+padding-top: 30px;
+padding-bottom: 20px;}
+
+/*段落文字們的位置*/
+p {
+max-width: 910px;
+height: 0 auto;
+margin: 0 30px;
+text-wrap: wrap;}
