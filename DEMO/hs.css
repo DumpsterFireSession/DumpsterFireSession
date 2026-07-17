@@ -13,7 +13,9 @@ div {
 font-family: Courier, Verdana, monospace;
 max-width: 910px;}
 
-.grond {width: 100vw;
+.grond {
+max-width: 910px;
+width: 100vw;
 background: #eeeeee;
 margin: 0 auto;}
 
