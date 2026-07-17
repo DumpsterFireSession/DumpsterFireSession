@@ -4,7 +4,8 @@ html {background-color: #535353}
 div {
 font-family: Courier, Verdana, monospace;
 max-width: 910px;
-margin: 0 auto;}
+margin: 0 auto;
+height: 0 auto;}
 
 /*副背景*/
 .body {
@@ -18,12 +19,13 @@ height: 0 auto;}
 max-width: 910px;
 width: 100vw;
 background: #eeeeee;
-margin: 0 auto;}
+margin: 0 auto;
+height: 0 auto;}
 
 .pagename {
 font-size: 40px;
 text-align: center;
-padding-top: 15px}
+padding-top: 10px}
 
 .command {
 font-size: 24px;
