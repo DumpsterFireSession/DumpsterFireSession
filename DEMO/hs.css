@@ -55,3 +55,7 @@ max-width: 910px;
 height: auto;
 margin: 0 30px;
 text-wrap: wrap;}
+
+.next {
+font-size: 15px;
+text-align: left;
