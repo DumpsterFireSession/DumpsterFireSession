@@ -19,7 +19,8 @@ max-width: 910px;
 width: 100vw;
 background: #eeeeee;
 margin: 0 auto;
-height: 0 auto;}
+height: 0 auto;
+padding: 15px 0 10px 0}
 
 .pagename {
 font-size: 40px;
@@ -39,14 +40,6 @@ width: 100vw;
 height: 0 auto;
 max-width: 100%;
 margin: 15px 0;
-
-.space {
-max-width: 910px;
-width: 100vw;
-background: #eeeeee;
-margin: 0 auto;
-padding-top: 30px;
-padding-bottom: 20px;}
 
 /*段落文字們的位置*/
 p {
