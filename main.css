@@ -19,7 +19,7 @@ margin: 0 auto;}
 .pagename {
 font-size: 40px;
 text-align: center;
-margin: 0 auto;}
+padding-top: 15px}
 
 .command {
 font-size: 24px;
@@ -27,12 +27,12 @@ text-align: left;}
 
 .narration {
 font-size: 18px;
-text-align: center;
-margin: 0 auto;}
+text-align: center;}
 
 img {
 max-width: 910px;
 width: 100vw;
+height: 0 auto;
 max-width: 100%;
 margin: 15px 0;
 
