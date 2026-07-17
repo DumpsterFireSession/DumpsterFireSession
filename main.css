@@ -4,7 +4,7 @@ html {background-color: #535353}
 body {
 width: 100vw;
 max-width: 1210px;
-padding: 0;
+padding: 15px 0 10px 0;
 margin: 0 auto;
 background: #c6c6c6;
 height: auto; }
@@ -20,8 +20,7 @@ margin: 0 auto;}
 .pagename {
 font-size: 40px;
 text-align: center;
-margin: 0 auto;
-padding: 15px 0 10px 0;}
+margin: 0 auto;}
 
 .command {
 font-size: 24px;
@@ -30,8 +29,7 @@ text-align: left;}
 .narration {
 font-size: 18px;
 text-align: center;
-margin: 0 auto;
-padding: 15px 0 10px 0;}
+margin: 0 auto;}
 
 .space {
 max-width: 910px;
