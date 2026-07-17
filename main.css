@@ -4,7 +4,6 @@ html {background-color: #535353}
 body {
 width: 100vw;
 max-width: 1210px;
-padding: 15px 0 10px 0;
 margin: 0 auto;
 background: #c6c6c6;
 height: auto; }
@@ -15,7 +14,8 @@ font-family: Courier, Verdana, monospace;
 max-width: 910px;
 width: 100vw;
 background: #eeeeee;
-margin: 0 auto;}
+margin: 0 auto;
+padding: 15px 0 10px 0;}
 
 .pagename {
 font-size: 40px;
@@ -30,8 +30,12 @@ text-align: left;}
 .narration {
 font-size: 18px;
 text-align: center;
-margin: 0 auto;
-padding: 10px 0 0 0;}
+margin: 0 auto;}
+
+img {
+width: 100vw;
+max-width: 100%;
+margin: 15px 0;
 
 .space {
 max-width: 910px;
