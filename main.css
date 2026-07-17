@@ -3,7 +3,7 @@ html {background-color: #535353}
 /*副背景*/
 body {
 width: 100vw;
-max-width: 950px;
+max-width: 1210px;
 padding: 0;
 margin: 0 auto;
 background: #c6c6c6;
@@ -12,7 +12,7 @@ height: auto; }
 /*那個類貼文造型的主要外觀*/
 div {
 font-family: Courier, Verdana, monospace;
-max-width: 650px;
+max-width: 910px;
 width: 100vw;
 background: #eeeeee;
 margin: 0 auto;}
@@ -30,7 +30,7 @@ font-size: 16px;
 text-align: center;}
 
 .space {
-max-width: 650px;
+max-width: 910px;
 width: 100vw;
 background: #eeeeee;
 margin: 0 auto;
@@ -39,7 +39,7 @@ padding-bottom: 20px;}
 
 /*段落文字們的位置*/
 p {
-max-width: 650px;
+max-width: 910px;
 height: 0 auto;
 margin: 0 30px;
 text-wrap: wrap;}
