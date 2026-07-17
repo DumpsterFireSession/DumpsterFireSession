@@ -1,5 +1,11 @@
 html {background-color: #535353}
 
+/*那個類貼文造型的主要外觀*/
+div {
+font-family: Courier, Verdana, monospace;
+max-width: 910px;
+margin: 0 auto;}
+
 /*副背景*/
 .body {
 width: 100vw;
@@ -7,12 +13,6 @@ max-width: 1210px;
 margin: 0 auto;
 background: #c6c6c6;
 height: 0 auto;}
-
-/*那個類貼文造型的主要外觀*/
-div {
-font-family: Courier, Verdana, monospace;
-max-width: 910px;
-margin: 0 auto;}
 
 .body-inner {
 max-width: 910px;
@@ -51,6 +51,6 @@ padding-bottom: 20px;}
 /*段落文字們的位置*/
 p {
 max-width: 910px;
-height: 0 auto;
+height: auto;
 margin: 0 30px;
 text-wrap: wrap;}
