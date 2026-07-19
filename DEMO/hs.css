@@ -17,6 +17,18 @@ margin: 15px 0;}
 /*断行*/
 p {text-wrap: wrap;}
 
+/*最上面那一塊*/
+.header {
+  width: 100vw;
+  max-width: 1210px;
+  margin: 0 auto;
+  padding: 3px 3px;
+  background-color: #5a5a5a;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 600}
+
 /*大背景*/
 .body {
 width: 100vw;
