@@ -12,7 +12,7 @@ max-width: 910px;
 width: 100vw;
 height: 0 auto;
 max-width: 100%;
-margin: 15px 0;
+margin: 15px 0;}
 
 /*断行*/
 p {text-wrap: wrap;}
@@ -33,19 +33,20 @@ background: #eeeeee;
 margin: 0 auto;
 height: 0 auto;
 padding: 10px 0;}
+
 /*縮排*/
-.context {padding: 0 30px}
+.context {padding: 0 30px;}
 
 /*頁面標題*/
 .pagename {
 font-size: 36px;
 text-align: center;
-font-weight: 700}
+font-weight: 700;}
 
 /*指令*/
 .command {
 font-size: 24px;
-text-align: left}
+text-align: left;}
 
 /*內文*/
 .narration {
