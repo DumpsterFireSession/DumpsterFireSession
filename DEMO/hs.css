@@ -27,8 +27,7 @@ font-size: 36px;
 text-align: center;}
 
 .command {
-font-size: 24px;
-text-align: left;}
+font-size: 24px;}
 
 .narration {
 font-size: 18px;
@@ -49,5 +48,5 @@ margin: 0 30px;
 text-wrap: wrap;}
 
 .next {
-font-size: 15px;
+font-size: 12px;
 text-align: left;}
