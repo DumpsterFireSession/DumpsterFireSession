@@ -6,33 +6,7 @@ font-family: Courier, Verdana, monospace;
 margin: 0 auto;
 height: 0 auto;}
 
-/*副背景*/
-.body {
-width: 100vw;
-max-width: 1210px;
-margin: 0 auto;
-background: #c6c6c6;
-height: 0 auto;}
-
-.body-inner {
-max-width: 910px;
-width: 100vw;
-background: #eeeeee;
-margin: 0 auto;
-height: 0 auto;
-padding: 10px 0 5px 0}
-
-.pagename {
-font-size: 36px;
-text-align: center;}
-
-.command {
-font-size: 24px;}
-
-.narration {
-font-size: 18px;
-text-align: center;}
-
+/*圖片縮放*/
 img {
 max-width: 910px;
 width: 100vw;
@@ -40,14 +14,44 @@ height: 0 auto;
 max-width: 100%;
 margin: 15px 0;
 
-/*段落文字們的位置*/
-p {
-max-width: 910px;
-height: auto;
-margin: 0 30px;
-text-wrap: wrap;}
+/*断行*/
+p {text-wrap: wrap;}
 
+/*大背景*/
+.body {
+width: 100vw;
+max-width: 1210px;
+margin: 0 auto;
+background: #c6c6c6;
+height: 0 auto;}
+
+/*小背景*/
+.body-inner {
+max-width: 910px;
+width: 100vw;
+background: #eeeeee;
+margin: 0 auto;
+height: 0 auto;
+padding: 10px 0;}
+/*縮排*/
+.context {padding: 0 30px}
+
+/*頁面標題*/
+.pagename {
+font-size: 36px;
+text-align: center;
+font-weight: 700}
+
+/*指令*/
+.command {
+font-size: 24px;
+text-align: left}
+
+/*內文*/
+.narration {
+font-size: 18px;
+text-align: center;}
+
+/*其實是首頁和上一頁*/
 .next {
-font-size: 12px;
-text-align: left;
-margin: 0 10px;}
+font-size: 15px;}
