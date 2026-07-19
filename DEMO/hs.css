@@ -21,11 +21,11 @@ p {text-wrap: wrap;}
   width: 100vw;
   max-width: 1210px;
   margin: 0 auto;
-  padding: 2px;
+  padding: 1px;
   background-color: #5a5a5a;
   box-sizing: border-box;
   text-align: center;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 600}
 
 /*大背景*/
